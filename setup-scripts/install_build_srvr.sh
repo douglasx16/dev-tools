@@ -2,7 +2,7 @@
 export BUILD_BASE='/home/oneops/build'
 export OO_HOME='/home/oneops'
 export SEARCH_SITE=localhost
-export GITHUB_URL='https://github.com/oneops'
+export GITHUB_URL='https://github.com/douglasx16'
 echo "$BUILD_BASE"
 
 mkdir -p "$BUILD_BASE"
